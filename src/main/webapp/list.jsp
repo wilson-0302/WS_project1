@@ -42,6 +42,13 @@
         .icon-btn:hover {
             opacity: 0.7;
         }
+        a {
+            text-decoration: none;
+            color: black;
+        }
+        a:hover {
+            text-decoration: none;
+        }
     </style>
 </head>
 <body>
@@ -68,7 +75,9 @@
 
             <tr>
                 <td>1</td>
-                <td><strong>오픈소스 프로그래밍 과제</strong></td>
+                <td>
+                <a href="view.jsp?id=1"><strong>오픈소스 프로그래밍 과제</strong></a>
+                </td>
                 <td>2025-11-16</td>
                 <td class="status-active">Done</td>
                 <td>
@@ -85,7 +94,9 @@
 
             <tr>
                 <td>2</td>
-                <td><strong>파이썬 시험</strong></td>
+                <td>
+                <a href="view.jsp?id=2"><strong>파이썬 시험</strong></a>
+                </td>
                 <td>2025-11-20</td>
                 <td class="status-inactive">Doing</td>
                 <td>
@@ -102,7 +113,9 @@
 
             <tr>
                 <td>3</td>
-                <td><strong>컴퓨터 구조 퀴즈</strong></td>
+                <td>
+                <a href="view.jsp?id=3"><strong>컴퓨터 구조 퀴즈</strong></a>
+                </td>
                 <td>2025-11-25</td>
                 <td class="status-inactive">Doing</td>
                 <td>
