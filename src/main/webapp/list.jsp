@@ -70,7 +70,7 @@
                 <td>1</td>
                 <td><strong>오픈소스 프로그래밍 과제</strong></td>
                 <td>2025-11-16</td>
-                <td class="status-active">Active</td>
+                <td class="status-active">Done</td>
                 <td>
                     <a href="edit.jsp" class="text-primary icon-btn">
                         <i class="fa-solid fa-pen"></i>
@@ -87,7 +87,7 @@
                 <td>2</td>
                 <td><strong>파이썬 시험</strong></td>
                 <td>2025-11-20</td>
-                <td class="status-inactive">Inactive</td>
+                <td class="status-inactive">Doing</td>
                 <td>
                     <a href="edit.jsp" class="text-primary icon-btn">
                         <i class="fa-solid fa-pen"></i>
@@ -104,7 +104,7 @@
                 <td>3</td>
                 <td><strong>컴퓨터 구조 퀴즈</strong></td>
                 <td>2025-11-25</td>
-                <td class="status-inactive">Inactive</td>
+                <td class="status-inactive">Doing</td>
                 <td>
                     <a href="edit.jsp" class="text-primary icon-btn">
                         <i class="fa-solid fa-pen"></i>
