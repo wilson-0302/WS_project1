@@ -86,7 +86,7 @@
                     </a>
                 </td>
                 <td>
-                    <a href="delete.jsp" class="text-danger icon-btn">
+                    <a href="delete_ok.jsp" class="text-danger icon-btn">
                         <i class="fa-solid fa-trash"></i>
                     </a>
                 </td>
@@ -105,7 +105,7 @@
                     </a>
                 </td>
                 <td>
-                    <a href="delete.jsp" class="text-danger icon-btn">
+                    <a href="delete_ok.jsp" class="text-danger icon-btn">
                         <i class="fa-solid fa-trash"></i>
                     </a>
                 </td>
@@ -124,7 +124,7 @@
                     </a>
                 </td>
                 <td>
-                    <a href="delete.jsp" class="text-danger icon-btn">
+                    <a href="delete_ok.jsp" class="text-danger icon-btn">
                         <i class="fa-solid fa-trash"></i>
                     </a>
                 </td>
