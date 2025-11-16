@@ -45,6 +45,8 @@
 
     <div class="mt-4 d-flex gap-2">
         <a href="list.jsp" class="btn btn-secondary">Back</a>
+        <a href="edit.jsp" class="btn btn-info">Edit</a>
+        <a href="delete_ok.jsp" class="btn btn-danger">Delete</a>
     </div>
 </div>
 
